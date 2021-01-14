@@ -1,0 +1,30 @@
+/* Основное */
+
+body {
+	font-family: Tahoma, Arial, Helvetica, Sans Serif, Verdana;
+	font-size: 14px;
+	height: 100%;
+	padding: 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+table {
+	font-family: Tahoma, Arial, Helvetica, Sans Serif, Verdana;
+	font-size: 14px;
+}
+
+
+
+/* Ссылки */
+
+A:visited { 
+	color: #0000FF; /* Цвет посещенных ссылок */
+}
+A:hover { 
+	color: #DD0000; /* Цвет ссылок при наведении на них курсора мыши */
+}
+A {
+	color: #0000FF; /* Цвет ссылок */
+	text-decoration: none; /* Убираем подчеркивание у ссылок */
+}
