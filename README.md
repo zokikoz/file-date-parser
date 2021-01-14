@@ -6,4 +6,4 @@ YYYY - год, ММ - месяц, DD - день, x - тип видеоконфе
 
 Выводит результат в виде ссылок на файлы с навигацией по годам и разбивкой года на месяцы
 
-![alt text](https://github.com/zokikoz/file-date-parser/blob/main/file-parser.jpg?raw=true)
+![](https://github.com/zokikoz/file-date-parser/blob/main/file-parser.JPG)
